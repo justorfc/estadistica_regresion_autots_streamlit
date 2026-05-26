@@ -1,0 +1,6 @@
+Model,Score,MAE,RMSE,ModelParameters
+SeasonalNaive,0.72,22.8,29.7,"{""method"":""last_year_plus_trend"",""period"":12}"
+ETS,0.81,25.4,32.2,"{""trend"":""additive"",""seasonal"":""multiplicative""}"
+GLS,0.88,27.9,35.8,"{""trend"":""linear""}"
+LastValueNaive,1.04,34.1,43.5,"{""method"":""last_observation""}"
+AverageValueNaive,1.18,39.6,48.1,"{""method"":""historical_average""}"
