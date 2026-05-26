@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # App multipágina de Estadística Aplicada: Regresiones y AutoTS
 
 Aplicación desarrollada en Streamlit para cerrar el semestre de **Estadística Aplicada con Python y R** mediante un proyecto integrado de regresiones, series de tiempo, AutoTS, auditoría de modelos y despliegue web.
@@ -109,3 +110,6 @@ Cada grupo puede reemplazar los datos demostrativos por un dataset propio de ing
 - Métricas de ajuste o error.
 - Interpretación técnica del pronóstico.
 - Enlace público del dashboard.
+=======
+# estadistica_regresion_autots_streamlit
+>>>>>>> cba47362ee6239f22547ab8837c18b7453009528
